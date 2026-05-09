@@ -1,0 +1,2 @@
+strategy,severity,climate,year,annual_energy_MWh,annual_thermal_hvac_MWh,annual_fan_MWh,annual_pump_MWh,annual_auxiliary_MWh,annual_cost_usd,annual_co2_tonne,mean_COP,mean_delta,mean_comfort_dev,mean_Q_cool_kw,mean_Q_heat_kw,occupied_discomfort_days
+S2,Baseline_NoDegradation,C0_Baseline,1,83.00568587939834,77.94469159368406,2.085714285714286,0.0,2.9752800000000006,9960.6823055278,44.4910476313575,4.161175591324214,0.0,0.4542220936597805,36.163112404870354,3.9188130840013597,161.0
